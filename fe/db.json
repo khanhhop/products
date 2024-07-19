@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "iphone x",
+      "price": "1909",
+      "description": "This is product 8",
+      "id": "8"
+    },
+    {
+      "name": "laptop",
+      "price": "123",
+      "description": "laptop asus",
+      "id": "12"
+    },
+    {
+      "id": "da3e",
+      "name": "điện thoại",
+      "price": "1999",
+      "description": "iphone 12"
+    }
+  ]
+}
